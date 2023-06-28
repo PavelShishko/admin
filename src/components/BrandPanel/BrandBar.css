@@ -1,0 +1,11 @@
+.input {
+  padding: 5px;
+  font-size: 18px;
+  border-radius: 5px;
+}
+
+.brand-main {
+  margin-left: 20px;
+  display: flex;
+  justify-content: space-evenly;
+}

@@ -1,0 +1,10 @@
+.select-models {
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  width: 40%;
+}
+
+.select-models input {
+  margin-top: 20px;
+}

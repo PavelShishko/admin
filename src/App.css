@@ -1,0 +1,6 @@
+.App {
+  display: flex;
+  justify-content: space-around;
+  overflow: auto;
+  text-align: center;
+}
